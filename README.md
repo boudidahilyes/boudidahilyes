@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <em>Computer Engineering Student | Full-Stack Developer | Cloud & AI Enthusiast | 🚀 Always Learning</em>
+  <em>Computer Engineering Student | Full-Stack Developer | AI Enthusiast | 🚀 Always Learning</em>
 </p>
 
 ---
