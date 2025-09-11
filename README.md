@@ -71,9 +71,6 @@ Motto: "Code with purpose, learn with passion."
   <a href="mailto:boudidahilyes@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-boudidahilyes@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/boudidahilyes" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-boudidahilyes-181717?style=for-the-badge&logo=github"/>
-  </a>
 </p>
 
 <p align="center">
